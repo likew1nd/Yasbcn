@@ -31,40 +31,14 @@
 # 安装
 
 ### 需求
-- Nerd Fonts。推荐安装 [Nerd Fonts](https://www.nerdfonts.com/font-downloads)（建议使用 [JetBrainsMono](https://github.com/ryanoasis/nerd-fonts/releases/latest/download/JetBrainsMono.zip)）
-- 如需中文显示，请安装中文字体（例如 苹方、微软雅黑、思源黑体 等），并在配置中指定
+- 苹方字体、Nerd Fonts。推荐安装 [Nerd Fonts](https://www.nerdfonts.com/font-downloads)（建议使用 [JetBrainsMono](https://github.com/ryanoasis/nerd-fonts/releases/latest/download/JetBrainsMono.zip)）
 - Windows 10 或 11
 
 ### 安装包
 - 从 [GitHub Releases](https://github.com/amnweb/yasb/releases/latest) 下载最新安装包。
 - 运行安装程序并按提示完成安装。
-
 ***
 
-### Winget
-使用 Winget 安装：
-```powershell
-winget install --id AmN.yasb
-```
-
-***
-
-### Scoop
-使用 Scoop 安装：
-```powershell
-scoop bucket add extras
-scoop install extras/yasb
-```
-
-***
-
-### Chocolatey
-使用 Chocolatey 安装：
-```powershell
-choco install yasb
-```
-
-***
 
 ### 使用 Python
 - 安装 Python 3.14

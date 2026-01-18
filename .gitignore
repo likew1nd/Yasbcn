@@ -1,0 +1,22 @@
+# Ignore Python cache directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Ignore Python bytecode files
+*.py[cod]
+*$py.class
+# Ignore Lock files for package managers
+*.lock
+# Ignore virtual environment directories
+.venv/
+venv/
+# Application specific
+src/yasb.log
+dist/
+build/
+# local build scratch
+tmp_build/
+# Temporary files
+*.tmp
+*.temp

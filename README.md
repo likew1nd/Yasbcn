@@ -113,11 +113,6 @@
 - **[Komorebi Stack](https://github.com/amnweb/yasb/wiki/(Widget)-Komorebi-Stack)**：显示 Komorebi 当前栈窗口。
 - **[Komorebi Workspaces](https://github.com/amnweb/yasb/wiki/(Widget)-Komorebi-Workspaces)**：Komorebi 工作区组件。
 
-# 贡献者
-感谢所有贡献者！
-
-[![YASB Contributors](https://contrib.rocks/image?repo=amnweb/yasb)](https://github.com/amnweb/yasb/graphs/contributors)
-
 # 代码签名政策
 免费代码签名由 [SignPath.io](https://about.signpath.io/) 提供，证书来自 [SignPath Foundation](https://signpath.org/)
 

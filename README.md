@@ -32,6 +32,7 @@
 
 ### 需求
 - Nerd Fonts。推荐安装 [Nerd Fonts](https://www.nerdfonts.com/font-downloads)（建议使用 [JetBrainsMono](https://github.com/ryanoasis/nerd-fonts/releases/latest/download/JetBrainsMono.zip)）
+- 如需中文显示，请安装中文字体（例如 苹方、微软雅黑、思源黑体 等），并在配置中指定
 - Windows 10 或 11
 
 ### 安装包
@@ -145,4 +146,5 @@ choco install yasb
 
 # 代码签名政策
 免费代码签名由 [SignPath.io](https://about.signpath.io/) 提供，证书来自 [SignPath Foundation](https://signpath.org/)
+
 
